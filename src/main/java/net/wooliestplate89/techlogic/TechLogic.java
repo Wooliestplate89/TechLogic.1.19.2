@@ -17,7 +17,7 @@ public class TechLogic {
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "techlogic";
     private static final Logger LOGGER = LogUtils.getLogger();
-//Totally useful comment!
+
     public TechLogic() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
